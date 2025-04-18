@@ -1,0 +1,8 @@
+Detection Summary for ttc/test_1_hough
+Timestamp: 2025-04-18 00:05:47 PDT
+--------------------------------------------------
+
+Pond Brightness: 111.1
+Shadow Threshold: 88
+Detected Fish: 0
+

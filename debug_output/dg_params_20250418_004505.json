@@ -1,0 +1,10 @@
+{
+    "hough_dp": 1.1,
+    "hough_min_dist": 18,
+    "hough_param1": 55,
+    "hough_param2": 14,
+    "h_axis_ratio": 0.3,
+    "v_axis_ratio": 0.2,
+    "shadow_threshold": 0.7,
+    "shadow_min_threshold": 20
+}

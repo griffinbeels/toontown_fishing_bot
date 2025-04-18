@@ -1,0 +1,26 @@
+Detection Summary for dg/test_1_contour
+Timestamp: 2025-04-17 23:54:19 PDT
+--------------------------------------------------
+
+Pond Brightness: 81.3
+Shadow Threshold: 67
+Detected Fish: 3
+
+Fish #1:
+  Position: (664, 262)
+  Radius: 17.0
+  Area: 907.9
+  Confidence: 0.809
+
+Fish #2:
+  Position: (626, 253)
+  Radius: 24.0
+  Area: 1809.6
+  Confidence: 0.791
+
+Fish #3:
+  Position: (642, 461)
+  Radius: 11.9
+  Area: 245.0
+  Confidence: 0.719
+

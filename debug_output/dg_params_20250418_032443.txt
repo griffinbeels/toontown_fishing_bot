@@ -1,0 +1,27 @@
+# DG Fish Detection Parameters
+# Saved at: 2025-04-18 03:24:43
+
+# Hough Circle Detection Parameters
+
+# Size Parameters
+detector.min_radius = 1.0
+detector.max_radius = 11.744186046511627
+
+# Important: Center weight (low value = less center bias)
+detector.center_pond_weight = 0.813953488372093
+
+# DG Pond Detection Parameters
+detector.dg_params = {
+    "center_x_ratio": 0.5,
+    "center_y_ratio": 0.45,
+    "shadow_threshold": 0.8604651162790697,
+    "shadow_min_threshold": 19.767441860465116,
+}
+
+# Name Tag Masking Parameters
+detector.name_tag_params = {
+    "x_offset": 500.0,
+    "y_offset": -383.72093023255815,
+    "width": 20.0,
+    "height": 10.0,
+}

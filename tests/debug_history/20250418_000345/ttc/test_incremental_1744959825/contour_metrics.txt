@@ -1,0 +1,11 @@
+Contour Metrics for ttc/test_incremental_1744959825
+--------------------------------------------------
+
+Contour #1:
+  x: 637
+  y: 373
+  area: 952425.000
+  radius: 738.856
+  valid: False
+  reason: Area 952425.0 outside range 120-3700
+

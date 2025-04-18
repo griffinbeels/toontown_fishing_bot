@@ -1,0 +1,271 @@
+Contour Metrics for dg/test_stability_2_1744961052
+--------------------------------------------------
+
+Contour #1:
+  x: 385
+  y: 598
+  area: 366.000
+  radius: 29.921
+  aspect_ratio: 0.233
+  circularity: 0.263
+  solidity: 0.806
+  center_pond_score: 0.035
+  valid: False
+  reason: Failed shape check: aspect_ratio=0.23 (min 0.35), circularity=0.26 (min 0.40), solidity=0.81 (min 0.65)
+
+Contour #2:
+  x: 951
+  y: 589
+  area: 14.000
+  radius: 3.640
+  valid: False
+  reason: Area 14.0 outside range 120-3700
+
+Contour #3:
+  x: 940
+  y: 590
+  area: 54.000
+  radius: 7.211
+  valid: False
+  reason: Area 54.0 outside range 120-3700
+
+Contour #4:
+  x: 961
+  y: 579
+  area: 4.000
+  radius: 1.414
+  valid: False
+  reason: Area 4.0 outside range 120-3700
+
+Contour #5:
+  x: 326
+  y: 576
+  area: 8.000
+  radius: 2.236
+  valid: False
+  reason: Area 8.0 outside range 120-3700
+
+Contour #6:
+  x: 880
+  y: 574
+  area: 24.000
+  radius: 4.272
+  valid: False
+  reason: Area 24.0 outside range 120-3700
+
+Contour #7:
+  x: 298
+  y: 572
+  area: 154.500
+  radius: 14.765
+  aspect_ratio: 0.630
+  circularity: 0.203
+  solidity: 0.494
+  center_pond_score: 0.059
+  valid: False
+  reason: Failed shape check: aspect_ratio=0.63 (min 0.35), circularity=0.20 (min 0.40), solidity=0.49 (min 0.65)
+
+Contour #8:
+  x: 879
+  y: 562
+  area: 20.500
+  radius: 3.808
+  valid: False
+  reason: Area 20.5 outside range 120-3700
+
+Contour #9:
+  x: 914
+  y: 560
+  area: 35.500
+  radius: 6.325
+  valid: False
+  reason: Area 35.5 outside range 120-3700
+
+Contour #10:
+  x: 260
+  y: 564
+  area: 95.000
+  radius: 12.904
+  valid: False
+  reason: Area 95.0 outside range 120-3700
+
+Contour #11:
+  x: 1007
+  y: 565
+  area: 180.500
+  radius: 16.919
+  aspect_ratio: 0.724
+  circularity: 0.303
+  solidity: 0.650
+  center_pond_score: 0.053
+  valid: False
+  reason: Failed shape check: aspect_ratio=0.72 (min 0.35), circularity=0.30 (min 0.40), solidity=0.65 (min 0.65)
+
+Contour #12:
+  x: 930
+  y: 566
+  area: 522.500
+  radius: 28.413
+  aspect_ratio: 0.596
+  circularity: 0.160
+  solidity: 0.459
+  center_pond_score: 0.108
+  valid: False
+  reason: Failed shape check: aspect_ratio=0.60 (min 0.35), circularity=0.16 (min 0.40), solidity=0.46 (min 0.65)
+
+Contour #13:
+  x: 224
+  y: 553
+  area: 30.000
+  radius: 5.408
+  valid: False
+  reason: Area 30.0 outside range 120-3700
+
+Contour #14:
+  x: 190
+  y: 546
+  area: 14.000
+  radius: 2.829
+  valid: False
+  reason: Area 14.0 outside range 120-3700
+
+Contour #15:
+  x: 138
+  y: 528
+  area: 302.000
+  radius: 19.313
+  aspect_ratio: 0.595
+  circularity: 0.371
+  solidity: 0.621
+  center_pond_score: 0.030
+  valid: False
+  reason: Failed shape check: aspect_ratio=0.59 (min 0.35), circularity=0.37 (min 0.40), solidity=0.62 (min 0.65)
+
+Contour #16:
+  x: 85
+  y: 481
+  area: 4.000
+  radius: 1.414
+  valid: False
+  reason: Area 4.0 outside range 120-3700
+
+Contour #17:
+  x: 975
+  y: 539
+  area: 10317.500
+  radius: 94.334
+  valid: False
+  reason: Area 10317.5 outside range 120-3700
+
+Contour #18:
+  x: 1020
+  y: 478
+  area: 6.000
+  radius: 1.803
+  valid: False
+  reason: Area 6.0 outside range 120-3700
+
+Contour #19:
+  x: 1001
+  y: 479
+  area: 23.500
+  radius: 4.031
+  valid: False
+  reason: Area 23.5 outside range 120-3700
+
+Contour #20:
+  x: 90
+  y: 474
+  area: 4.000
+  radius: 1.414
+  valid: False
+  reason: Area 4.0 outside range 120-3700
+
+Contour #21:
+  x: 82
+  y: 430
+  area: 7617.000
+  radius: 68.579
+  valid: False
+  reason: Area 7617.0 outside range 120-3700
+
+Contour #22:
+  x: 636
+  y: 386
+  area: 378.500
+  radius: 20.889
+  aspect_ratio: 0.405
+  circularity: 0.251
+  solidity: 0.697
+  center_pond_score: 0.821
+  valid: False
+  reason: Failed shape check: aspect_ratio=0.40 (min 0.35), circularity=0.25 (min 0.40), solidity=0.70 (min 0.65)
+
+Contour #23:
+  x: 650
+  y: 315
+  area: 72.000
+  radius: 11.543
+  valid: False
+  reason: Area 72.0 outside range 120-3700
+
+Contour #24:
+  x: 644
+  y: 315
+  area: 77.000
+  radius: 12.042
+  valid: False
+  reason: Area 77.0 outside range 120-3700
+
+Contour #25:
+  x: 647
+  y: 270
+  area: 25.500
+  radius: 4.031
+  valid: False
+  reason: Area 25.5 outside range 120-3700
+
+Contour #26:
+  x: 1215
+  y: 205
+  area: 312.000
+  radius: 31.564
+  aspect_ratio: 0.266
+  circularity: 0.145
+  solidity: 0.424
+  center_pond_score: 0.066
+  valid: False
+  reason: Failed shape check: aspect_ratio=0.27 (min 0.35), circularity=0.14 (min 0.40), solidity=0.42 (min 0.65)
+
+Contour #27:
+  x: 1203
+  y: 168
+  area: 278.000
+  radius: 30.956
+  aspect_ratio: 0.673
+  circularity: 0.140
+  solidity: 0.303
+  center_pond_score: 0.016
+  valid: False
+  reason: Failed shape check: aspect_ratio=0.67 (min 0.35), circularity=0.14 (min 0.40), solidity=0.30 (min 0.65)
+
+Contour #28:
+  x: 1171
+  y: 173
+  area: 198.000
+  radius: 24.885
+  aspect_ratio: 0.511
+  circularity: 0.182
+  solidity: 0.464
+  center_pond_score: 0.063
+  valid: False
+  reason: Failed shape check: aspect_ratio=0.51 (min 0.35), circularity=0.18 (min 0.40), solidity=0.46 (min 0.65)
+
+Contour #29:
+  x: 635
+  y: 195
+  area: 142828.000
+  radius: 664.745
+  valid: False
+  reason: Area 142828.0 outside range 120-3700
+

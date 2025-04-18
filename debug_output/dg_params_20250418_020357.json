@@ -1,0 +1,22 @@
+{
+    "hough_dp": 1.1,
+    "hough_min_dist": 18.0,
+    "hough_param1": 55.0,
+    "hough_param2": 14.0,
+    "min_radius": 10.0,
+    "max_radius": 40.0,
+    "h_axis_ratio": 0.58,
+    "v_axis_ratio": 0.42,
+    "center_pond_weight": 0.2,
+    "shadow_threshold": 0.81,
+    "shadow_min_threshold": 55.0,
+    "pond_brightness_adjust": -38.372093023255815,
+    "pond_contrast_adjust": 1.0,
+    "adaptive_block_size": 21.0,
+    "adaptive_c_value": 5.0,
+    "name_tag_x_offset": 0.0,
+    "name_tag_y_offset": -40.0,
+    "name_tag_width": 80.0,
+    "name_tag_height": 30.0,
+    "playground": "dg"
+}

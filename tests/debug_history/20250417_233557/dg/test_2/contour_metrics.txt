@@ -1,0 +1,328 @@
+Contour Metrics for dg/test_2
+--------------------------------------------------
+
+Contour #1:
+  position: (722, 640)
+  radius: 20.500
+  area: 167.000
+  w: 10
+  h: 41
+  circularity: 0.247
+  solidity: 0.841
+  aspect_ratio: 0.244
+  center_score: 0.089
+  confidence: 0.643
+  is_valid: False
+
+Contour #2:
+  position: (915, 624)
+  radius: 10.773
+  area: 225.000
+  w: 21
+  h: 17
+  circularity: 0.721
+  solidity: 0.911
+  aspect_ratio: 0.810
+  center_score: 0.070
+  confidence: 0.814
+  is_valid: False
+
+Contour #3:
+  position: (949, 623)
+  radius: 12.748
+  area: 151.500
+  w: 16
+  h: 24
+  circularity: 0.421
+  solidity: 0.725
+  aspect_ratio: 0.667
+  center_score: 0.055
+  confidence: 0.811
+  is_valid: False
+
+Contour #4:
+  position: (899, 624)
+  radius: 19.526
+  area: 251.500
+  w: 9
+  h: 40
+  circularity: 0.412
+  solidity: 0.967
+  aspect_ratio: 0.225
+  center_score: 0.078
+  confidence: 0.744
+  is_valid: False
+
+Contour #5:
+  position: (885, 617)
+  radius: 22.699
+  area: 139.000
+  w: 7
+  h: 46
+  circularity: 0.180
+  solidity: 0.774
+  aspect_ratio: 0.152
+  center_score: 0.104
+  confidence: 0.543
+  is_valid: False
+
+Contour #6:
+  position: (913, 597)
+  radius: 13.086
+  area: 239.000
+  w: 27
+  h: 14
+  circularity: 0.569
+  solidity: 0.879
+  aspect_ratio: 0.519
+  center_score: 0.145
+  confidence: 0.829
+  is_valid: False
+
+Contour #7:
+  position: (944, 593)
+  radius: 10.736
+  area: 212.500
+  w: 20
+  h: 16
+  circularity: 0.732
+  solidity: 0.910
+  aspect_ratio: 0.800
+  center_score: 0.138
+  confidence: 0.828
+  is_valid: False
+
+Contour #8:
+  position: (1009, 596)
+  radius: 12.904
+  area: 150.500
+  w: 18
+  h: 22
+  circularity: 0.419
+  solidity: 0.697
+  aspect_ratio: 0.818
+  center_score: 0.088
+  confidence: 0.818
+  is_valid: False
+
+Contour #9:
+  position: (290, 592)
+  radius: 34.340
+  area: 510.000
+  w: 47
+  h: 55
+  circularity: 0.078
+  solidity: 0.388
+  aspect_ratio: 0.855
+  center_score: 0.112
+  confidence: 0.460
+  is_valid: False
+
+Contour #10:
+  position: (978, 563)
+  radius: 12.029
+  area: 192.000
+  w: 24
+  h: 14
+  circularity: 0.572
+  solidity: 0.851
+  aspect_ratio: 0.583
+  center_score: 0.192
+  confidence: 0.838
+  is_valid: False
+
+Contour #11:
+  position: (243, 579)
+  radius: 35.089
+  area: 415.500
+  w: 54
+  h: 56
+  circularity: 0.107
+  solidity: 0.367
+  aspect_ratio: 0.964
+  center_score: 0.111
+  confidence: 0.472
+  is_valid: False
+
+Contour #12:
+  position: (1040, 584)
+  radius: 29.913
+  area: 783.000
+  w: 43
+  h: 59
+  circularity: 0.132
+  solidity: 0.491
+  aspect_ratio: 0.729
+  center_score: 0.095
+  confidence: 0.545
+  is_valid: False
+
+Contour #13:
+  position: (726, 579)
+  radius: 26.392
+  area: 208.000
+  w: 13
+  h: 53
+  circularity: 0.149
+  solidity: 0.454
+  aspect_ratio: 0.245
+  center_score: 0.268
+  confidence: 0.515
+  is_valid: False
+
+Contour #14:
+  position: (1002, 583)
+  radius: 34.482
+  area: 418.500
+  w: 47
+  h: 61
+  circularity: 0.103
+  solidity: 0.364
+  aspect_ratio: 0.770
+  center_score: 0.125
+  confidence: 0.470
+  is_valid: False
+
+Contour #15:
+  position: (932, 568)
+  radius: 28.413
+  area: 524.500
+  w: 52
+  h: 32
+  circularity: 0.157
+  solidity: 0.451
+  aspect_ratio: 0.615
+  center_score: 0.211
+  confidence: 0.568
+  is_valid: False
+
+Contour #16:
+  position: (213, 575)
+  radius: 28.845
+  area: 229.000
+  w: 33
+  h: 49
+  circularity: 0.185
+  solidity: 0.858
+  aspect_ratio: 0.673
+  center_score: 0.097
+  confidence: 0.658
+  is_valid: False
+
+Contour #17:
+  position: (639, 503)
+  radius: 10.261
+  area: 151.500
+  w: 18
+  h: 17
+  circularity: 0.514
+  solidity: 0.773
+  aspect_ratio: 0.944
+  center_score: 0.503
+  confidence: 0.901
+  is_valid: True
+
+Contour #18:
+  position: (638, 487)
+  radius: 12.349
+  area: 256.000
+  w: 22
+  h: 18
+  circularity: 0.583
+  solidity: 0.827
+  aspect_ratio: 0.818
+  center_score: 0.551
+  confidence: 0.910
+  is_valid: True
+
+Contour #19:
+  position: (644, 389)
+  radius: 14.773
+  area: 292.500
+  w: 29
+  h: 17
+  circularity: 0.493
+  solidity: 0.802
+  aspect_ratio: 0.586
+  center_score: 0.842
+  confidence: 0.968
+  is_valid: True
+
+Contour #20:
+  position: (647, 308)
+  radius: 21.593
+  area: 217.000
+  w: 11
+  h: 44
+  circularity: 0.292
+  solidity: 0.779
+  aspect_ratio: 0.250
+  center_score: 0.916
+  confidence: 0.845
+  is_valid: False
+
+Contour #21:
+  position: (641, 270)
+  radius: 16.202
+  area: 192.500
+  w: 14
+  h: 33
+  circularity: 0.151
+  solidity: 0.603
+  aspect_ratio: 0.424
+  center_score: 0.804
+  confidence: 0.752
+  is_valid: False
+
+Contour #22:
+  position: (1217, 206)
+  radius: 32.638
+  area: 362.500
+  w: 66
+  h: 17
+  circularity: 0.153
+  solidity: 0.449
+  aspect_ratio: 0.258
+  center_score: 0.152
+  confidence: 0.499
+  is_valid: False
+
+Contour #23:
+  position: (773, 157)
+  radius: 29.652
+  area: 1063.500
+  w: 60
+  h: 25
+  circularity: 0.634
+  solidity: 0.958
+  aspect_ratio: 0.417
+  center_score: 0.439
+  confidence: 0.888
+  is_valid: True
+
+Contour #24:
+  position: (1214, 154)
+  radius: 27.203
+  area: 768.500
+  w: 53
+  h: 32
+  circularity: 0.135
+  solidity: 0.560
+  aspect_ratio: 0.604
+  center_score: 0.074
+  confidence: 0.575
+  is_valid: False
+
+Contour #25:
+  position: (1214, 157)
+  radius: 36.872
+  area: 806.500
+  w: 74
+  h: 67
+  circularity: 0.061
+  solidity: 0.213
+  aspect_ratio: 0.905
+  center_score: 0.080
+  confidence: 0.360
+  is_valid: False
+

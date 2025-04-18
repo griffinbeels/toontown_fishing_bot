@@ -1,0 +1,8 @@
+Detection Summary for ttc/test_2_contour
+Timestamp: 2025-04-17 23:51:22 PDT
+--------------------------------------------------
+
+Pond Brightness: 113.0
+Shadow Threshold: 90
+Detected Fish: 0
+

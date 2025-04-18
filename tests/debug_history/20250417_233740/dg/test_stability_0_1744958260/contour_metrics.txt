@@ -1,0 +1,120 @@
+Contour Metrics for dg/test_stability_0_1744958260
+--------------------------------------------------
+
+Contour #1:
+  position: (693, 562)
+  radius: 19.357
+  area: 319.000
+  w: 26
+  h: 35
+  circularity: 0.146
+  solidity: 0.437
+  aspect_ratio: 0.743
+  center_score: 0.111
+  confidence: 0.534
+  is_valid: False
+
+Contour #2:
+  position: (570, 561)
+  radius: 20.597
+  area: 151.500
+  w: 5
+  h: 42
+  circularity: 0.238
+  solidity: 0.962
+  aspect_ratio: 0.119
+  center_score: 0.114
+  confidence: 0.569
+  is_valid: False
+
+Contour #3:
+  position: (635, 483)
+  radius: 12.427
+  area: 237.500
+  w: 22
+  h: 17
+  circularity: 0.505
+  solidity: 0.804
+  aspect_ratio: 0.773
+  center_score: 0.421
+  confidence: 0.884
+  is_valid: True
+
+Contour #4:
+  position: (642, 461)
+  radius: 11.942
+  area: 245.000
+  w: 21
+  h: 16
+  circularity: 0.611
+  solidity: 0.901
+  aspect_ratio: 0.762
+  center_score: 0.506
+  confidence: 0.901
+  is_valid: True
+
+Contour #5:
+  position: (115, 419)
+  radius: 13.592
+  area: 130.500
+  w: 28
+  h: 9
+  circularity: 0.242
+  solidity: 0.674
+  aspect_ratio: 0.321
+  center_score: 0.116
+  confidence: 0.688
+  is_valid: False
+
+Contour #6:
+  position: (636, 386)
+  radius: 20.889
+  area: 378.500
+  w: 42
+  h: 17
+  circularity: 0.251
+  solidity: 0.697
+  aspect_ratio: 0.405
+  center_score: 0.795
+  confidence: 0.847
+  is_valid: False
+
+Contour #7:
+  position: (659, 196)
+  radius: 25.130
+  area: 853.000
+  w: 51
+  h: 24
+  circularity: 0.642
+  solidity: 0.937
+  aspect_ratio: 0.471
+  center_score: 0.470
+  confidence: 0.894
+  is_valid: True
+
+Contour #8:
+  position: (835, 133)
+  radius: 22.204
+  area: 618.000
+  w: 45
+  h: 19
+  circularity: 0.671
+  solidity: 0.972
+  aspect_ratio: 0.422
+  center_score: 0.167
+  confidence: 0.833
+  is_valid: False
+
+Contour #9:
+  position: (631, 87)
+  radius: 19.066
+  area: 391.000
+  w: 39
+  h: 15
+  circularity: 0.543
+  solidity: 0.910
+  aspect_ratio: 0.385
+  center_score: 0.050
+  confidence: 0.810
+  is_valid: False
+

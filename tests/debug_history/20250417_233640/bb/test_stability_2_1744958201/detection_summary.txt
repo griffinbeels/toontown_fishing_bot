@@ -1,0 +1,91 @@
+Detection Summary for bb/test_stability_2_1744958201
+--------------------------------------------------
+
+Pond Brightness: 89.2
+Shadow Threshold: 75
+Detected Fish: 14
+
+Fish #1:
+  Position: (642, 461)
+  Radius: 11.9
+  Area: 245.0
+  Confidence: 0.923
+
+Fish #2:
+  Position: (659, 196)
+  Radius: 28.7
+  Area: 1130.0
+  Confidence: 0.917
+
+Fish #3:
+  Position: (635, 483)
+  Radius: 12.4
+  Area: 241.5
+  Confidence: 0.910
+
+Fish #4:
+  Position: (836, 131)
+  Radius: 25.2
+  Area: 804.0
+  Confidence: 0.868
+
+Fish #5:
+  Position: (631, 87)
+  Radius: 21.6
+  Area: 519.0
+  Confidence: 0.852
+
+Fish #6:
+  Position: (517, 89)
+  Radius: 22.2
+  Area: 565.0
+  Confidence: 0.850
+
+Fish #7:
+  Position: (709, 270)
+  Radius: 21.2
+  Area: 595.5
+  Confidence: 0.993
+
+Fish #8:
+  Position: (777, 295)
+  Radius: 24.1
+  Area: 898.0
+  Confidence: 0.965
+
+Fish #9:
+  Position: (645, 388)
+  Radius: 14.8
+  Area: 281.0
+  Confidence: 0.930
+
+Fish #10:
+  Position: (482, 311)
+  Radius: 31.9
+  Area: 1459.5
+  Confidence: 0.950
+
+Fish #11:
+  Position: (542, 206)
+  Radius: 14.2
+  Area: 302.5
+  Confidence: 0.924
+
+Fish #12:
+  Position: (537, 158)
+  Radius: 11.2
+  Area: 130.0
+  Confidence: 0.889
+
+Fish #13:
+  Position: (383, 182)
+  Radius: 15.5
+  Area: 302.0
+  Confidence: 0.881
+
+Fish #14:
+  Position: (648, 138)
+  Radius: 12.6
+  Area: 229.0
+  Confidence: 0.878
+

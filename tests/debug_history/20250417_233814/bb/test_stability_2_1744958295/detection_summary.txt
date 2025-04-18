@@ -1,0 +1,43 @@
+Detection Summary for bb/test_stability_2_1744958295
+--------------------------------------------------
+
+Pond Brightness: 82.4
+Shadow Threshold: 70
+Detected Fish: 6
+
+Fish #1:
+  Position: (642, 461)
+  Radius: 11.9
+  Area: 245.0
+  Confidence: 0.913
+
+Fish #2:
+  Position: (659, 197)
+  Radius: 22.6
+  Area: 718.0
+  Confidence: 0.908
+
+Fish #3:
+  Position: (635, 483)
+  Radius: 12.4
+  Area: 237.5
+  Confidence: 0.899
+
+Fish #4:
+  Position: (835, 132)
+  Radius: 19.7
+  Area: 479.0
+  Confidence: 0.853
+
+Fish #5:
+  Position: (709, 270)
+  Radius: 21.2
+  Area: 595.5
+  Confidence: 0.993
+
+Fish #6:
+  Position: (777, 295)
+  Radius: 24.1
+  Area: 898.0
+  Confidence: 0.965
+

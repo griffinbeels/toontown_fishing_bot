@@ -1,0 +1,172 @@
+Contour Metrics for ttc/test_chars_1744958295
+--------------------------------------------------
+
+Contour #1:
+  position: (619, 408)
+  radius: 33.541
+  area: 490.000
+  w: 67
+  h: 14
+  circularity: 0.133
+  solidity: 0.611
+  aspect_ratio: 0.209
+  center_score: 0.422
+  confidence: 0.586
+  is_valid: False
+
+Contour #2:
+  position: (644, 388)
+  radius: 14.773
+  area: 281.000
+  w: 29
+  h: 17
+  circularity: 0.427
+  solidity: 0.771
+  aspect_ratio: 0.586
+  center_score: 0.505
+  confidence: 0.901
+  is_valid: True
+
+Contour #3:
+  position: (677, 398)
+  radius: 25.224
+  area: 340.000
+  w: 43
+  h: 36
+  circularity: 0.140
+  solidity: 0.384
+  aspect_ratio: 0.837
+  center_score: 0.474
+  confidence: 0.577
+  is_valid: False
+
+Contour #4:
+  position: (644, 376)
+  radius: 17.529
+  area: 170.500
+  w: 36
+  h: 7
+  circularity: 0.346
+  solidity: 0.917
+  aspect_ratio: 0.194
+  center_score: 0.550
+  confidence: 0.780
+  is_valid: False
+
+Contour #5:
+  position: (604, 372)
+  radius: 20.616
+  area: 230.000
+  w: 41
+  h: 12
+  circularity: 0.337
+  solidity: 0.890
+  aspect_ratio: 0.293
+  center_score: 0.548
+  confidence: 0.830
+  is_valid: False
+
+Contour #6:
+  position: (136, 318)
+  radius: 20.230
+  area: 375.500
+  w: 41
+  h: 16
+  circularity: 0.281
+  solidity: 0.664
+  aspect_ratio: 0.390
+  center_score: 0.088
+  confidence: 0.728
+  is_valid: False
+
+Contour #7:
+  position: (104, 299)
+  radius: 14.143
+  area: 181.000
+  w: 28
+  h: 12
+  circularity: 0.303
+  solidity: 0.692
+  aspect_ratio: 0.429
+  center_score: 0.053
+  confidence: 0.738
+  is_valid: False
+
+Contour #8:
+  position: (777, 295)
+  radius: 24.088
+  area: 898.000
+  w: 49
+  h: 26
+  circularity: 0.650
+  solidity: 0.940
+  aspect_ratio: 0.531
+  center_score: 0.823
+  confidence: 0.965
+  is_valid: True
+
+Contour #9:
+  position: (134, 302)
+  radius: 33.444
+  area: 311.000
+  w: 61
+  h: 39
+  circularity: 0.111
+  solidity: 0.248
+  aspect_ratio: 0.639
+  center_score: 0.098
+  confidence: 0.417
+  is_valid: False
+
+Contour #10:
+  position: (709, 270)
+  radius: 21.213
+  area: 595.500
+  w: 43
+  h: 18
+  circularity: 0.649
+  solidity: 0.959
+  aspect_ratio: 0.419
+  center_score: 0.963
+  confidence: 0.993
+  is_valid: True
+
+Contour #11:
+  position: (1215, 174)
+  radius: 27.541
+  area: 336.000
+  w: 56
+  h: 18
+  circularity: 0.194
+  solidity: 0.499
+  aspect_ratio: 0.321
+  center_score: 0.128
+  confidence: 0.585
+  is_valid: False
+
+Contour #12:
+  position: (1178, 167)
+  radius: 24.920
+  area: 387.000
+  w: 46
+  h: 40
+  circularity: 0.213
+  solidity: 0.388
+  aspect_ratio: 0.870
+  center_score: 0.170
+  confidence: 0.573
+  is_valid: False
+
+Contour #13:
+  position: (430, 73)
+  radius: 12.021
+  area: 198.000
+  w: 24
+  h: 13
+  circularity: 0.634
+  solidity: 0.915
+  aspect_ratio: 0.542
+  center_score: 0.164
+  confidence: 0.833
+  is_valid: False
+

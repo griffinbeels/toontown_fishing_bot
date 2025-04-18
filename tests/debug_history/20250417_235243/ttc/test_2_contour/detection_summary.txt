@@ -1,0 +1,20 @@
+Detection Summary for ttc/test_2_contour
+Timestamp: 2025-04-17 23:52:43 PDT
+--------------------------------------------------
+
+Pond Brightness: 113.0
+Shadow Threshold: 90
+Detected Fish: 2
+
+Fish #1:
+  Position: (664, 262)
+  Radius: 17.0
+  Area: 907.9
+  Confidence: 0.864
+
+Fish #2:
+  Position: (676, 253)
+  Radius: 34.0
+  Area: 3631.7
+  Confidence: 0.774
+

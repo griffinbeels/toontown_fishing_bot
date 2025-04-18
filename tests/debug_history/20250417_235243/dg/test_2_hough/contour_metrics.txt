@@ -1,0 +1,527 @@
+Contour Metrics for dg/test_2_hough
+--------------------------------------------------
+
+Contour #1:
+  x: 519
+  y: 593
+  area: 37.000
+  radius: 6.500
+  valid: False
+  reason: Area 37.0 outside range 120-1500
+
+Contour #2:
+  x: 385
+  y: 602
+  area: 524.500
+  radius: 37.901
+  aspect_ratio: 0.237
+  circularity: 0.234
+  solidity: 0.718
+  center_pond_score: 0.040
+  valid: False
+  reason: Failed shape check: aspect_ratio=0.24 (min 0.35), circularity=0.23 (min 0.40), solidity=0.72 (min 0.65)
+
+Contour #3:
+  x: 503
+  y: 593
+  area: 24.000
+  radius: 5.408
+  valid: False
+  reason: Area 24.0 outside range 120-1500
+
+Contour #4:
+  x: 988
+  y: 588
+  area: 6.000
+  radius: 1.803
+  valid: False
+  reason: Area 6.0 outside range 120-1500
+
+Contour #5:
+  x: 994
+  y: 581
+  area: 4.000
+  radius: 1.414
+  valid: False
+  reason: Area 4.0 outside range 120-1500
+
+Contour #6:
+  x: 963
+  y: 581
+  area: 4.000
+  radius: 1.414
+  valid: False
+  reason: Area 4.0 outside range 120-1500
+
+Contour #7:
+  x: 326
+  y: 580
+  area: 18.000
+  radius: 5.000
+  valid: False
+  reason: Area 18.0 outside range 120-1500
+
+Contour #8:
+  x: 882
+  y: 576
+  area: 24.000
+  radius: 4.272
+  valid: False
+  reason: Area 24.0 outside range 120-1500
+
+Contour #9:
+  x: 298
+  y: 576
+  area: 189.500
+  radius: 17.335
+  aspect_ratio: 0.700
+  circularity: 0.165
+  solidity: 0.460
+  center_pond_score: 0.062
+  valid: False
+  reason: Failed shape check: aspect_ratio=0.70 (min 0.35), circularity=0.17 (min 0.40), solidity=0.46 (min 0.65)
+
+Contour #10:
+  x: 730
+  y: 565
+  area: 19.000
+  radius: 4.031
+  valid: False
+  reason: Area 19.0 outside range 120-1500
+
+Contour #11:
+  x: 881
+  y: 564
+  area: 20.500
+  radius: 3.808
+  valid: False
+  reason: Area 20.5 outside range 120-1500
+
+Contour #12:
+  x: 916
+  y: 562
+  area: 35.500
+  radius: 6.325
+  valid: False
+  reason: Area 35.5 outside range 120-1500
+
+Contour #13:
+  x: 262
+  y: 567
+  area: 107.500
+  radius: 13.730
+  valid: False
+  reason: Area 107.5 outside range 120-1500
+
+Contour #14:
+  x: 726
+  y: 579
+  area: 208.000
+  radius: 26.392
+  aspect_ratio: 0.245
+  circularity: 0.149
+  solidity: 0.454
+  center_pond_score: 0.178
+  valid: False
+  reason: Failed shape check: aspect_ratio=0.25 (min 0.35), circularity=0.15 (min 0.40), solidity=0.45 (min 0.65)
+
+Contour #15:
+  x: 587
+  y: 561
+  area: 44.000
+  radius: 7.433
+  valid: False
+  reason: Area 44.0 outside range 120-1500
+
+Contour #16:
+  x: 1009
+  y: 567
+  area: 199.000
+  radius: 17.205
+  aspect_ratio: 0.759
+  circularity: 0.323
+  solidity: 0.676
+  center_pond_score: 0.065
+  valid: False
+  reason: Failed shape check: aspect_ratio=0.76 (min 0.35), circularity=0.32 (min 0.40), solidity=0.68 (min 0.65)
+
+Contour #17:
+  x: 932
+  y: 568
+  area: 524.500
+  radius: 28.413
+  aspect_ratio: 0.615
+  circularity: 0.157
+  solidity: 0.451
+  center_pond_score: 0.119
+  valid: False
+  reason: Failed shape check: aspect_ratio=0.62 (min 0.35), circularity=0.16 (min 0.40), solidity=0.45 (min 0.65)
+
+Contour #18:
+  x: 224
+  y: 557
+  area: 47.000
+  radius: 7.906
+  valid: False
+  reason: Area 47.0 outside range 120-1500
+
+Contour #19:
+  x: 541
+  y: 583
+  area: 223.500
+  radius: 37.663
+  aspect_ratio: 0.105
+  circularity: 0.107
+  solidity: 0.694
+  center_pond_score: 0.162
+  valid: False
+  reason: Failed shape check: aspect_ratio=0.11 (min 0.35), circularity=0.11 (min 0.40), solidity=0.69 (min 0.65)
+
+Contour #20:
+  x: 190
+  y: 550
+  area: 33.000
+  radius: 5.701
+  valid: False
+  reason: Area 33.0 outside range 120-1500
+
+Contour #21:
+  x: 712
+  y: 545
+  area: 4.000
+  radius: 1.414
+  valid: False
+  reason: Area 4.0 outside range 120-1500
+
+Contour #22:
+  x: 593
+  y: 538
+  area: 78.500
+  radius: 8.846
+  valid: False
+  reason: Area 78.5 outside range 120-1500
+
+Contour #23:
+  x: 610
+  y: 512
+  area: 68.000
+  radius: 6.821
+  valid: False
+  reason: Area 68.0 outside range 120-1500
+
+Contour #24:
+  x: 637
+  y: 507
+  area: 59.000
+  radius: 6.122
+  valid: False
+  reason: Area 59.0 outside range 120-1500
+
+Contour #25:
+  x: 977
+  y: 542
+  area: 10361.000
+  radius: 94.682
+  valid: False
+  reason: Area 10361.0 outside range 120-1500
+
+Contour #26:
+  x: 1022
+  y: 480
+  area: 6.000
+  radius: 1.803
+  valid: False
+  reason: Area 6.0 outside range 120-1500
+
+Contour #27:
+  x: 1003
+  y: 481
+  area: 23.500
+  radius: 4.031
+  valid: False
+  reason: Area 23.5 outside range 120-1500
+
+Contour #28:
+  x: 638
+  y: 604
+  area: 213825.500
+  radius: 654.208
+  valid: False
+  reason: Area 213825.5 outside range 120-1500
+
+Contour #29:
+  x: 39
+  y: 460
+  area: 185.000
+  radius: 16.991
+  aspect_ratio: 0.353
+  circularity: 0.247
+  solidity: 0.641
+  center_pond_score: 0.050
+  valid: False
+  reason: Failed shape check: aspect_ratio=0.35 (min 0.35), circularity=0.25 (min 0.40), solidity=0.64 (min 0.65)
+
+Contour #30:
+  x: 640
+  y: 450
+  area: 61.000
+  radius: 11.543
+  valid: False
+  reason: Area 61.0 outside range 120-1500
+
+Contour #31:
+  x: 109
+  y: 445
+  area: 6.000
+  radius: 1.803
+  valid: False
+  reason: Area 6.0 outside range 120-1500
+
+Contour #32:
+  x: 72
+  y: 445
+  area: 20.000
+  radius: 3.202
+  valid: False
+  reason: Area 20.0 outside range 120-1500
+
+Contour #33:
+  x: 125
+  y: 444
+  area: 125.000
+  radius: 11.769
+  aspect_ratio: 0.333
+  circularity: 0.418
+  solidity: 0.847
+  center_pond_score: 0.184
+  valid: False
+  reason: Failed shape check: aspect_ratio=0.33 (min 0.35), circularity=0.42 (min 0.40), solidity=0.85 (min 0.65)
+
+Contour #34:
+  x: 89
+  y: 446
+  area: 130.000
+  radius: 11.780
+  aspect_ratio: 0.333
+  circularity: 0.383
+  solidity: 0.831
+  center_pond_score: 0.134
+  valid: False
+  reason: Failed shape check: aspect_ratio=0.33 (min 0.35), circularity=0.38 (min 0.40), solidity=0.83 (min 0.65)
+
+Contour #35:
+  x: 63
+  y: 444
+  area: 10.000
+  radius: 2.693
+  valid: False
+  reason: Area 10.0 outside range 120-1500
+
+Contour #36:
+  x: 66
+  y: 439
+  area: 4.000
+  radius: 1.414
+  valid: False
+  reason: Area 4.0 outside range 120-1500
+
+Contour #37:
+  x: 38
+  y: 443
+  area: 177.000
+  radius: 15.977
+  aspect_ratio: 0.548
+  circularity: 0.196
+  solidity: 0.500
+  center_pond_score: 0.072
+  valid: False
+  reason: Failed shape check: aspect_ratio=0.55 (min 0.35), circularity=0.20 (min 0.40), solidity=0.50 (min 0.65)
+
+Contour #38:
+  x: 31
+  y: 430
+  area: 8.000
+  radius: 2.236
+  valid: False
+  reason: Area 8.0 outside range 120-1500
+
+Contour #39:
+  x: 109
+  y: 428
+  area: 4.000
+  radius: 1.414
+  valid: False
+  reason: Area 4.0 outside range 120-1500
+
+Contour #40:
+  x: 42
+  y: 428
+  area: 68.000
+  radius: 6.964
+  valid: False
+  reason: Area 68.0 outside range 120-1500
+
+Contour #41:
+  x: 116
+  y: 424
+  area: 30.500
+  radius: 4.301
+  valid: False
+  reason: Area 30.5 outside range 120-1500
+
+Contour #42:
+  x: 134
+  y: 426
+  area: 153.500
+  radius: 11.853
+  aspect_ratio: 0.545
+  circularity: 0.395
+  solidity: 0.727
+  center_pond_score: 0.220
+  valid: False
+  reason: Failed shape check: aspect_ratio=0.55 (min 0.35), circularity=0.39 (min 0.40), solidity=0.73 (min 0.65)
+
+Contour #43:
+  x: 108
+  y: 422
+  area: 6.000
+  radius: 1.803
+  valid: False
+  reason: Area 6.0 outside range 120-1500
+
+Contour #44:
+  x: 24
+  y: 426
+  area: 22.000
+  radius: 5.590
+  valid: False
+  reason: Area 22.0 outside range 120-1500
+
+Contour #45:
+  x: 77
+  y: 427
+  area: 312.000
+  radius: 21.432
+  aspect_ratio: 0.326
+  circularity: 0.294
+  solidity: 0.696
+  center_pond_score: 0.144
+  valid: False
+  reason: Failed shape check: aspect_ratio=0.33 (min 0.35), circularity=0.29 (min 0.40), solidity=0.70 (min 0.65)
+
+Contour #46:
+  x: 84
+  y: 443
+  area: 3091.500
+  radius: 81.617
+  valid: False
+  reason: Area 3091.5 outside range 120-1500
+
+Contour #47:
+  x: 623
+  y: 389
+  area: 82.000
+  radius: 7.810
+  valid: False
+  reason: Area 82.0 outside range 120-1500
+
+Contour #48:
+  x: 87
+  y: 363
+  area: 4.000
+  radius: 1.414
+  valid: False
+  reason: Area 4.0 outside range 120-1500
+
+Contour #49:
+  x: 668
+  y: 429
+  area: 6637.000
+  radius: 103.876
+  valid: False
+  reason: Area 6637.0 outside range 120-1500
+
+Contour #50:
+  x: 641
+  y: 311
+  area: 99.000
+  radius: 16.125
+  valid: False
+  reason: Area 99.0 outside range 120-1500
+
+Contour #51:
+  x: 647
+  y: 308
+  area: 217.000
+  radius: 21.593
+  aspect_ratio: 0.250
+  circularity: 0.292
+  solidity: 0.779
+  center_pond_score: 0.906
+  valid: False
+  reason: Failed shape check: aspect_ratio=0.25 (min 0.35), circularity=0.29 (min 0.40), solidity=0.78 (min 0.65)
+
+Contour #52:
+  x: 641
+  y: 270
+  area: 192.500
+  radius: 16.202
+  aspect_ratio: 0.424
+  circularity: 0.151
+  solidity: 0.603
+  center_pond_score: 0.779
+  valid: False
+  reason: Failed shape check: aspect_ratio=0.42 (min 0.35), circularity=0.15 (min 0.40), solidity=0.60 (min 0.65)
+
+Contour #53:
+  x: 640
+  y: 218
+  area: 83.500
+  radius: 9.208
+  valid: False
+  reason: Area 83.5 outside range 120-1500
+
+Contour #54:
+  x: 1217
+  y: 207
+  area: 314.500
+  radius: 31.564
+  aspect_ratio: 0.266
+  circularity: 0.145
+  solidity: 0.427
+  center_pond_score: 0.070
+  valid: False
+  reason: Failed shape check: aspect_ratio=0.27 (min 0.35), circularity=0.14 (min 0.40), solidity=0.43 (min 0.65)
+
+Contour #55:
+  x: 1206
+  y: 168
+  area: 303.000
+  radius: 32.070
+  aspect_ratio: 0.684
+  circularity: 0.138
+  solidity: 0.292
+  center_pond_score: 0.016
+  valid: False
+  reason: Failed shape check: aspect_ratio=0.68 (min 0.35), circularity=0.14 (min 0.40), solidity=0.29 (min 0.65)
+
+Contour #56:
+  x: 1173
+  y: 174
+  area: 208.000
+  radius: 25.348
+  aspect_ratio: 0.500
+  circularity: 0.185
+  solidity: 0.472
+  center_pond_score: 0.066
+  valid: False
+  reason: Failed shape check: aspect_ratio=0.50 (min 0.35), circularity=0.18 (min 0.40), solidity=0.47 (min 0.65)
+
+Contour #57:
+  x: 638
+  y: 197
+  area: 145743.000
+  radius: 668.200
+  valid: False
+  reason: Area 145743.0 outside range 120-1500
+

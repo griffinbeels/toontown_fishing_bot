@@ -1,0 +1,61 @@
+Detection Summary for ttc/test_stability_2_1744958201
+--------------------------------------------------
+
+Pond Brightness: 114.9
+Shadow Threshold: 91
+Detected Fish: 9
+
+Fish #1:
+  Position: (642, 461)
+  Radius: 11.9
+  Area: 245.0
+  Confidence: 0.923
+
+Fish #2:
+  Position: (659, 196)
+  Radius: 28.7
+  Area: 1130.0
+  Confidence: 0.917
+
+Fish #3:
+  Position: (635, 483)
+  Radius: 12.4
+  Area: 241.5
+  Confidence: 0.910
+
+Fish #4:
+  Position: (836, 131)
+  Radius: 25.2
+  Area: 804.0
+  Confidence: 0.868
+
+Fish #5:
+  Position: (631, 87)
+  Radius: 21.6
+  Area: 519.0
+  Confidence: 0.852
+
+Fish #6:
+  Position: (517, 89)
+  Radius: 22.2
+  Area: 565.0
+  Confidence: 0.850
+
+Fish #7:
+  Position: (709, 270)
+  Radius: 21.2
+  Area: 595.5
+  Confidence: 0.993
+
+Fish #8:
+  Position: (777, 295)
+  Radius: 24.1
+  Area: 898.0
+  Confidence: 0.965
+
+Fish #9:
+  Position: (644, 388)
+  Radius: 14.8
+  Area: 281.0
+  Confidence: 0.901
+

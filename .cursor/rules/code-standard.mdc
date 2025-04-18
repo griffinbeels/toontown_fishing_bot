@@ -7,3 +7,4 @@ alwaysApply: true
 2. After writing code, double check all of the code and make sure to simplify as much as possible. Make sure that the code is as easily understandable and commented as you can. I want a random, curious engineer to be able to open this file and perfectly understand all imports, all lines of code, and all variables. Make sure to run the code again to confirm functionality.
 3. Make sure to run the code and confirm that everything is still working. Confirm that the previous code still works as expected, and that the new code also works as expected.
 3. Include comments for lines of code that are not self-explanatory.
+4. Prioritize keeping the code the same as much as you can. Don't reinvent the wheel. Don't randomly change comments.

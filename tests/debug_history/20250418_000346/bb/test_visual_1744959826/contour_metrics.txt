@@ -1,0 +1,11 @@
+Contour Metrics for bb/test_visual_1744959826
+--------------------------------------------------
+
+Contour #1:
+  x: 637
+  y: 371
+  area: 946582.000
+  radius: 737.415
+  valid: False
+  reason: Area 946582.0 outside range 120-3700
+

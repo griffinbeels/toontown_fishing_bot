@@ -1,0 +1,38 @@
+Detection Summary for bb/test_1_contour
+Timestamp: 2025-04-17 23:54:20 PDT
+--------------------------------------------------
+
+Pond Brightness: 82.5
+Shadow Threshold: 70
+Detected Fish: 5
+
+Fish #1:
+  Position: (667, 413)
+  Radius: 25.0
+  Area: 1963.5
+  Confidence: 0.777
+
+Fish #2:
+  Position: (593, 397)
+  Radius: 16.0
+  Area: 804.2
+  Confidence: 0.738
+
+Fish #3:
+  Position: (625, 373)
+  Radius: 18.0
+  Area: 1017.9
+  Confidence: 0.836
+
+Fish #4:
+  Position: (649, 391)
+  Radius: 26.0
+  Area: 2123.7
+  Confidence: 0.793
+
+Fish #5:
+  Position: (526, 324)
+  Radius: 26.8
+  Area: 1218.5
+  Confidence: 0.787
+

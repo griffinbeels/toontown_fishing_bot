@@ -1,0 +1,44 @@
+Detection Summary for dg/test_1_hough
+Timestamp: 2025-04-17 23:54:20 PDT
+--------------------------------------------------
+
+Pond Brightness: 81.3
+Shadow Threshold: 67
+Detected Fish: 6
+
+Fish #1:
+  Position: (664, 262)
+  Radius: 17.0
+  Area: 907.9
+  Confidence: 0.809
+
+Fish #2:
+  Position: (626, 253)
+  Radius: 24.0
+  Area: 1809.6
+  Confidence: 0.791
+
+Fish #3:
+  Position: (661, 437)
+  Radius: 21.0
+  Area: 1385.4
+  Confidence: 0.766
+
+Fish #4:
+  Position: (595, 403)
+  Radius: 22.0
+  Area: 1520.5
+  Confidence: 0.854
+
+Fish #5:
+  Position: (619, 409)
+  Radius: 22.0
+  Area: 1520.5
+  Confidence: 0.845
+
+Fish #6:
+  Position: (649, 391)
+  Radius: 26.0
+  Area: 2123.7
+  Confidence: 0.793
+

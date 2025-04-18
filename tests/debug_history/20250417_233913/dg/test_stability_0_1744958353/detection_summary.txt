@@ -1,0 +1,31 @@
+Detection Summary for dg/test_stability_0_1744958353
+--------------------------------------------------
+
+Pond Brightness: 81.3
+Shadow Threshold: 67
+Detected Fish: 4
+
+Fish #1:
+  Position: (642, 461)
+  Radius: 11.9
+  Area: 245.0
+  Confidence: 0.913
+
+Fish #2:
+  Position: (659, 197)
+  Radius: 22.6
+  Area: 718.0
+  Confidence: 0.908
+
+Fish #3:
+  Position: (635, 483)
+  Radius: 12.4
+  Area: 237.5
+  Confidence: 0.899
+
+Fish #4:
+  Position: (835, 132)
+  Radius: 19.7
+  Area: 479.0
+  Confidence: 0.853
+

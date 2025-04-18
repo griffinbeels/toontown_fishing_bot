@@ -1,0 +1,7 @@
+Detection Summary for ttc/test_1
+--------------------------------------------------
+
+Pond Brightness: 111.6
+Shadow Threshold: 91
+Detected Fish: 0
+

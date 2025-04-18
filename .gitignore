@@ -38,3 +38,9 @@ wheels/
 # Local development settings
 .env
 .env.local 
+
+# Other
+debug_output/
+tests/debug_output
+tests/debug_history
+tests/hough_comparison

@@ -1,0 +1,9 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+
+# Don't fix things that aren't broken.
+
+- Try to make a new solution work with existing code and structure. If it absolutely 100% is impossible, then ask before completely undoing old code structure and important logic.

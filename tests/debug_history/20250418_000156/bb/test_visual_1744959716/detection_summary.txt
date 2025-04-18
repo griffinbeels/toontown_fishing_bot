@@ -1,0 +1,44 @@
+Detection Summary for bb/test_visual_1744959716
+Timestamp: 2025-04-18 00:01:57 PDT
+--------------------------------------------------
+
+Pond Brightness: 82.5
+Shadow Threshold: 70
+Detected Fish: 6
+
+Fish #1:
+  Position: (633, 412)
+  Radius: 22.0
+  Area: 1520.5
+  Confidence: 0.840
+
+Fish #2:
+  Position: (625, 313)
+  Radius: 30.0
+  Area: 2827.4
+  Confidence: 0.781
+
+Fish #3:
+  Position: (601, 397)
+  Radius: 26.0
+  Area: 2123.7
+  Confidence: 0.778
+
+Fish #4:
+  Position: (661, 437)
+  Radius: 21.0
+  Area: 1385.4
+  Confidence: 0.766
+
+Fish #5:
+  Position: (664, 262)
+  Radius: 17.0
+  Area: 907.9
+  Confidence: 0.809
+
+Fish #6:
+  Position: (626, 253)
+  Radius: 24.0
+  Area: 1809.6
+  Confidence: 0.791
+

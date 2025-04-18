@@ -1,0 +1,14 @@
+Detection Summary for ttc/test_stability_1_1744959856
+Timestamp: 2025-04-18 00:04:16 PDT
+--------------------------------------------------
+
+Pond Brightness: 111.1
+Shadow Threshold: 88
+Detected Fish: 1
+
+Fish #1:
+  Position: (642, 461)
+  Radius: 11.9
+  Area: 245.0
+  Confidence: 0.719
+
